@@ -4,6 +4,7 @@ public class Person implements Serializable {
     private int id;
     private String login;
     private String password;
+    private String email;
 
     public Person(){}
 
