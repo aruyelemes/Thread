@@ -3,6 +3,7 @@ import java.io.Serializable;
 public class Person implements Serializable {
     private int id;
     private String login;
+    private String password;
 
     public Person(){}
 

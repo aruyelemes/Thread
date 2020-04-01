@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28bdae1e-c882-4960-b1b7-75693d22a380" name="Default Changelist" comment="" />
+    <list default="true" id="28bdae1e-c882-4960-b1b7-75693d22a380" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZLagqksHiUxesx5wbilpQP5X4K" />
   <component name="ProjectViewState">
@@ -69,6 +76,7 @@
       <workItem from="1584711064746" duration="10000" />
       <workItem from="1584711129431" duration="27000" />
       <workItem from="1584711178216" duration="36000" />
+      <workItem from="1585747256859" duration="29000" />
     </task>
     <servers />
   </component>
@@ -81,6 +89,10 @@
     </state>
     <state x="847" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584629549109" />
     <state x="847" y="129" key="#com.intellij.ide.util.MemberChooser/0.23.1440.765@0.23.1440.765" timestamp="1584621103078" />
+    <state x="553" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585747261990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="553" y="347" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1585747261990" />
     <state x="303" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584708223376">
       <screen x="0" y="23" width="1440" height="765" />
     </state>
