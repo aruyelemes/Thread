@@ -33,6 +33,7 @@ public class Person implements Serializable {
         return "Person{" +
                 "id=" + id +
                 ", login='" + login + '\'' +
+                ", address="+
                 '}';
     }
 }
